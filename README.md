@@ -1,4 +1,4 @@
-# islam_project
+# eeg_project
 ## About Me
 
 <a href="https://github.com/FardinIslam">
